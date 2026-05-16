@@ -1,7 +1,7 @@
 /***************************************************
  * Solar Smart Irrigation System
- * ESP8266 + Blynk + Auto/Manual Mode
- ***************************************************/
+ * ESP8266 + Blynk + Auto/Manual Mode 
+ ***************************************************
 
 #define BLYNK_TEMPLATE_ID "TMPL3p5ueh-t8"
 #define BLYNK_TEMPLATE_NAME "Solar Irrigation"
