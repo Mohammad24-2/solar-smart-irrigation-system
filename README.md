@@ -7,7 +7,7 @@ An IoT-based automated irrigation system using ESP8266, soil moisture sensors, a
 ## Features
 ## Circuit Diagram
 
-![Circuit Diagram](circuit_diagram.png)
+![Circuit Diagram](Smart_solar_irrigation.png)
 
 - Automatic irrigation based on soil moisture
 - ESP8266-based wireless monitoring
