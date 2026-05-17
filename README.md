@@ -67,6 +67,14 @@ Blynk Cloud Monitoring
 ### Circuit Diagram
 
 ![Circuit Diagram](Smart_solar_irrigation.jpg)
+## Technical Specifications
+
+- Controller: ESP8266 NodeMCU
+- Sensor: Soil Moisture Sensor
+- Communication: WiFi
+- Cloud Platform: Blynk
+- Power Source: Solar + Battery
+- Pump Control: Relay Module
 
 ## Future Improvements
 
