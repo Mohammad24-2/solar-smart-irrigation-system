@@ -45,6 +45,23 @@ When moisture falls below a threshold value, the ESP8266 activates the water pum
 The system can also be monitored and controlled remotely using the Blynk mobile application.
 
 ---
+## Workflow
+
+```text
+Soil Moisture Sensor
+        ↓
+ESP8266 NodeMCU
+        ↓
+Decision Logic
+        ↓
+Relay Module
+        ↓
+Water Pump
+        ↓
+Irrigation Control
+        ↓
+Blynk Cloud Monitoring
+```
 
 ## Future Improvements
 
