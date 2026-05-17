@@ -62,6 +62,11 @@ Irrigation Control
         ↓
 Blynk Cloud Monitoring
 ```
+## Project Images
+
+### Circuit Diagram
+
+![Circuit Diagram](Smart_solar_irrigation.jpg)
 
 ## Future Improvements
 
